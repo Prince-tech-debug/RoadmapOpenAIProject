@@ -10,4 +10,14 @@ I am showing you to use both so follow the instructions:
 3. download the libraries and import them(don't know which once then you have not open my notebook yet it was in the first cell of the notebook)
 4. run the cells one by one the code should work.
 
-Tell me if you want me to use gradio and create a similar chat interface as the one we use for AI chats.
+if you want, you can also use gradio and create a similar chat interface as the one we use for AI chats.
+
+
+# Results
+By comparing both the responses from a same model with low(0.2) and high(0.8) temprature we can conclude that 
+## With low temprature 
+Models Thinking becomes Very deterministic, predictable, and repetitive.
+Due to which it tends to pick most likly token nest and give factual answers.
+## With high Temprature
+Models Thinking becomes random, More diverse and creative.
+Due to which it tends to explore low probablity tokens and give a imaginative or unexpected output 
