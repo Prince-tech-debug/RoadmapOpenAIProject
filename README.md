@@ -1,5 +1,5 @@
 # RoadmapOpenAIProject
-This is the Project which required to call OpenAI API directly through the backend instead to writing the message to OpenAI chat interface on Web.
+This is the Project url("https://roadmap.sh/projects/openai-api-python") which required to call OpenAI API directly through the backend instead to writing the message to OpenAI chat interface on Web.
 
 Now before seeing this repo you should understand that the openai api is not free. So if you want, you can only use openai Library which was the requirement of the project but use a different api key like gemini api key which for some reason is free to some extend for newly created once "All hail GEMINI".
 
